@@ -1,0 +1,18 @@
+Prima di utilizzare il sistema bisogna importare il DB che si trova all'interno della cartella "Database_Entree"
+
+Pagina iniziale del sistema: Login.php
+
+Credenziali per accesso ad Entree:
+
+-Utenti che hanno effettuato almeno un'interazione (votazione) con il sistema:
+
+Nome utente: Gianpaolo
+Password: Carmen
+
+Nome utente: Carmen
+Password: Gianpaolo
+
+-Utenti che non hanno effettuato nessuna interazione (votazione) con il sistema:
+
+Nome utente: Alessandro
+Password: ale
